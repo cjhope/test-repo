@@ -99,4 +99,7 @@ public class Test {
 		
 		return myColor;
 	}
+	
+	
+	
 }
